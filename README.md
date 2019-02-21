@@ -29,7 +29,7 @@ Tested in AWS using an Ubuntu Linux image. Follow these steps:
 - [x] [Install The Latest Node.Js And NPM Packages On Ubuntu](https://websiteforstudents.com/install-the-latest-node-js-and-nmp-packages-on-ubuntu-16-04-18-04-lts/)
 - [x] ```sudo npm install -g yo generator-hubot```
 - [x] Create your bot: ```yo hubot```
-- [x] Start Hubot with flowdock adapter:```bash bin/hubot -a flowdock```
+- [x] Start Hubot with flowdock adapter:```bin/hubot -a flowdock```
 
 ## Simple POST example via `notifier.coffee` script:
 
