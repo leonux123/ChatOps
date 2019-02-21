@@ -28,7 +28,10 @@ Tested in AWS using an Ubuntu Linux image. Follow these steps:
 - [x] Allow SSH access and open port :8080 for Hubot listener.
 - [x] [Install The Latest Node.Js And NPM Packages On Ubuntu](https://websiteforstudents.com/install-the-latest-node-js-and-nmp-packages-on-ubuntu-16-04-18-04-lts/)
 - [x] ```sudo npm install -g yo generator-hubot```
+- [x] Create your bot: ```mkdir mybot```
+- [x] Create your bot: ```cd mybot```
 - [x] Create your bot: ```yo hubot```
+- [x] Create your bot: ```chmod -R 755 *```
 - [x] Start Hubot with flowdock adapter:```bin/hubot -a flowdock```
 
 ## Simple POST example via `notifier.coffee` script:
