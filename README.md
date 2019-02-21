@@ -3,9 +3,11 @@
 ### Configuration
 
 Windows settings:
+```bash
     set HUBOT_NAME=essbot
     set HUBOT_FLOWDOCK_API_TOKEN=<flowdock API token>
     set HUBOT_ADAPTER=flowdock
+```
 
 Linux:
 ```bash
