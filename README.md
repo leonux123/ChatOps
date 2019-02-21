@@ -1,4 +1,4 @@
-# essbot-flowdock
+# mybot-flowdock
 
 ### Configuration
 
