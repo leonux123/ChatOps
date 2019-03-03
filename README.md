@@ -29,6 +29,7 @@ Tested in AWS using an Ubuntu Linux image. Follow these steps:
 - [x] [Install The Latest Node.Js And NPM Packages On Ubuntu](https://websiteforstudents.com/install-the-latest-node-js-and-nmp-packages-on-ubuntu-16-04-18-04-lts/)
 - [x] ```sudo npm install -g yo generator-hubot```
 - [x] Create your bot: ```mkdir mybot && cd mybot && yo hubot``` or clone this repo: ```git clone https://github.com/leonux123/ChatOps.git```
+- [x] or clone this repo: ```git clone https://github.com/leonux123/ChatOps.git```
 - [x] ```chmod -R 755 *```
 - [x] [Install githubot](https://github.com/iangreenleaf/githubot) (GitHub API access): ```npm install githubot```
 - [x] Start Hubot with flowdock adapter:```bin/hubot -a flowdock```
