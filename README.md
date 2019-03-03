@@ -13,6 +13,8 @@ Linux:
 ```bash
     export HUBOT_ADAPTER=flowdock
     export HUBOT_FLOWDOCK_API_TOKEN=<flowdock API token>
+    export HUBOT_GITHUB_TOKEN=<required to work with githubot>
+    export HUBOT_GITHUB_USER=<required to work with githubot>
 ```
 
 Make sure to add the flowdock dependency here: `package.json`:
